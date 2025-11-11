@@ -2,7 +2,7 @@
 
 **Senior Industrial Engineering & Computer Engineering Double Major** at [Koç University](https://www.ku.edu.tr), Istanbul  
 Focused on **Artificial Intelligence, Optimization, Reinforcement Learning**, and **Data-Driven Decision Systems**  
-Currently applying to **Ph.D. programs in Industrial Engineering and Data Science**
+
 
 ---
 
